@@ -1,0 +1,5 @@
+127.0.0.1 - - [17/Dec/2019:19:41:35 +0900] "GET / HTTP/1.1" 404 994
+0:0:0:0:0:0:0:1 - - [17/Dec/2019:19:41:36 +0900] "GET /servlet_practice/Wonmoservlet HTTP/1.1" 200 421
+0:0:0:0:0:0:0:1 - - [17/Dec/2019:19:41:42 +0900] "GET /servlet_practice/Wonmoservlet?L=2&R=3&action=Add HTTP/1.1" 200 478
+0:0:0:0:0:0:0:1 - - [17/Dec/2019:19:41:48 +0900] "GET /servlet_practice/Wonmoservlet?L=3&R=1&action=Subtract HTTP/1.1" 200 478
+0:0:0:0:0:0:0:1 - - [17/Dec/2019:19:41:53 +0900] "GET /servlet_practice/Wonmoservlet?L=2&R=2&action=Multiply HTTP/1.1" 200 478
